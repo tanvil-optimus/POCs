@@ -1,0 +1,15 @@
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\bin\Debug\AvigilonSDKPractice.exe.config
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.csprojResolveAssemblyReference.cache
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.Properties.Resources.resources
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.csproj.GenerateResource.Cache
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\bin\Debug\AvigilonSDKPractice.exe
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\bin\Debug\AvigilonSDKPractice.pdb
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\bin\Debug\AvigilonSdkDotNet.dll
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\bin\Debug\VideoStreamer.dll
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\bin\Debug\VideoStreamer.pdb
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.exe
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.pdb
+C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.AddSite.resources
+C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.Home.resources
+C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.DemoApplication.resources
+C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.VideoStream.resources
