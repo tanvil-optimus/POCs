@@ -13,3 +13,6 @@ C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\
 C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.Home.resources
 C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.DemoApplication.resources
 C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.VideoStream.resources
+C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonPOCGit\POCs\AvigilonSDKPractice\bin\Debug\AvigilonSDKPractice.exe.config
+C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonPOCGit\POCs\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.exe
+C:\Users\tanvi.lugani\Documents\Visual Studio 2012\Projects\AvigilonSDKPractice\AvigilonPOCGit\POCs\AvigilonSDKPractice\obj\Debug\AvigilonSDKPractice.pdb
