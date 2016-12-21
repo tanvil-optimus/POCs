@@ -1,0 +1,6 @@
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\VideoStreamer\obj\Debug\VideoStreamer.csprojResolveAssemblyReference.cache
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\VideoStreamer\bin\Debug\VideoStreamer.dll
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\VideoStreamer\bin\Debug\VideoStreamer.pdb
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\VideoStreamer\bin\Debug\AvigilonSdkDotNet.dll
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\VideoStreamer\obj\Debug\VideoStreamer.dll
+c:\users\tanvi.lugani\documents\visual studio 2012\Projects\AvigilonSDKPractice\VideoStreamer\obj\Debug\VideoStreamer.pdb
